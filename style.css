@@ -10,8 +10,12 @@ p {
     color: blue;
 }
 
+*{
+    background: gold;
+
 h4 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 72pt;
     color: lavender;
+
 }
