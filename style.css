@@ -10,6 +10,13 @@ p {
     color: blue;
 }
 
+<<<<<<< HEAD
 *{
     background: gold;
+=======
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72pt;
+    color: lavender;
+>>>>>>> a10d4c75b9a8d27fdceac112eaf3da4df6c5bd30
 }
